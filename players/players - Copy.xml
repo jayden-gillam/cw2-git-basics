@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<root>
+	<player name= "Bob">bob2
+		<favorite type="phrase">Ya Mom</favorite>
+		<favorite type="book">Bible</favorite>
+		<favorite type="person">Jesus</favorite>	
+	</player>
+</root>
