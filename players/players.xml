@@ -1,8 +1,13 @@
 <?xml version="1.0"?>
 <root>
-    <player name="Melody">rokolinkon
-        <favorite type="food">Cincinnati Chili</favorite>
-        <favorite type="game">Pokémon</favorite>
-        <favorite type="show">Arcane</favorite>
-    </player>
+	<player name="Melody">rokolinkon
+		<favorite type="food">Cincinnati Chili</favorite>
+		<favorite type="game">Pokémon</favorite>
+		<favorite type="show">Arcane</favorite>
+	</player>
+	<player name= "Jayden">jayden-gillam
+		<favorite type="food">Shrimp</favortite>
+		<favorite type="game">Minecraft</favortite>
+		<favorite type="show">Star Wars</favortite>
+	</player>
 </root>
