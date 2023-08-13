@@ -6,8 +6,9 @@
 		<favorite type="show">Arcane</favorite>
 	</player>
 	<player name= "Jayden">jayden-gillam
-		<favorite type="food">Shrimp</favortite>
-		<favorite type="game">Minecraft</favortite>
-		<favorite type="show">Star Wars</favortite>
+		<favorite type="food">Shrimp</favorite>
+		<favorite type="game">Minecraft</favorite>
+		<favorite type="show">Star Wars</favorite>
+			
 	</player>
 </root>
