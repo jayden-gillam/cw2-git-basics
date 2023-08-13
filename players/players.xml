@@ -8,7 +8,7 @@
 	<player name= "Jayden">jayden-gillam
 		<favorite type="food">Shrimp</favorite>
 		<favorite type="game">Minecraft</favorite>
-		<favorite type="show">Star Wars</favorite>
-			
+		<favorite type="movie">Star Wars</favorite>
+		<favorite type="show">The Office</favorite>
 	</player>
 </root>
